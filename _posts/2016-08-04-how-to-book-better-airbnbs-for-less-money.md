@@ -14,8 +14,8 @@ keywords:
   - listing
   - crucial
 title: How to Book Better Airbnbs for Less Money
-datePublished: '2016-08-04T06:31:53.163Z'
-dateModified: '2016-08-04T06:31:52.477Z'
+datePublished: '2016-08-05T11:16:56.251Z'
+dateModified: '2016-08-05T11:16:55.349Z'
 publisher:
   name: thrillist
   domain: www.thrillist.com
@@ -33,8 +33,8 @@ hasPage: false
 inNav: false
 description: How to successfully book your first-choice listings and get them for cheaper.
 via: {}
-starred: false
 sourcePath: _posts/2016-08-04-how-to-book-better-airbnbs-for-less-money.md
+starred: true
 _type: MediaObject
 
 ---
